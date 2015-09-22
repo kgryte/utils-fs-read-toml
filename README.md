@@ -49,7 +49,7 @@ if ( out instanceof Error ) {
 console.log( out );
 ```
 
-The function accepts the same options as [`fs.readFileSync()`](https://nodejs.org/api/fs.html#fs_fs_readfilesync_filename_options) and the asynchronous `read` method above.
+The function accepts the same options as [`fs.readFileSync()`](https://nodejs.org/api/fs.html#fs_fs_readfilesync_filename_options).
 
 
 
