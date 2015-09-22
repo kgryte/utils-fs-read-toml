@@ -1,6 +1,6 @@
 {
   "name": "utils-fs-read-toml",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Reads the entire contents of a TOML file.",
   "author": {
     "name": "Athan Reines",
