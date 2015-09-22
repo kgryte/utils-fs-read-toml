@@ -1,0 +1,14 @@
+{
+	"server": {
+		"port": 7331,
+		"address": "127.0.0.1"
+	},
+	"logger": {
+		"level": "info"
+	},
+	"words": [
+		"beep",
+		"boop",
+		"bop"
+	]
+}

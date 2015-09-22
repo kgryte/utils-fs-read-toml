@@ -1,0 +1,11 @@
+# This is a TOML document.
+
+# Some words...
+words = [ "beep", "boop", "bop" ]
+
+[server]
+port = 7331
+address = "127.0.0.1"
+
+[logger]
+level = "info"
